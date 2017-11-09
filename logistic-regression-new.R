@@ -4,7 +4,7 @@ library(tree)
 library(rpart)
 library(partykit)
 library(rpart.plot)
-
+#what is this doing!!!
 #Analyse Ken
 hotspot.ken <- read.csv("/Users/Vincentier/Desktop/SCORE/dataset/Kenya_Sm2_villages_Y1to5_Persistent_Hotspot_dataset_Oct2017.csv")
 
